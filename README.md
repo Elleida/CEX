@@ -1,2 +1,2 @@
 # CEX
-Cursos "Inteligencia Artificial para Medios de Comunicación"
+Cursos "Inteligencia Artificial y Grandes Modelos de Lenguaje: Funcionamiento, Componentes Clave y Aplicaciones"
